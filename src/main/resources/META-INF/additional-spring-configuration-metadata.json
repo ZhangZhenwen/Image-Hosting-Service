@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "application.name",
+      "type": "java.lang.String",
+      "description": "Application name."
+    },
+    {
+      "name": "application.version",
+      "type": "java.lang.String",
+      "description": "Application version."
+    },
+    {
+      "name": "application.profile",
+      "type": "java.lang.String",
+      "description": "Application profiles locate."
+    }
+  ] }

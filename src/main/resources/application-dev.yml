@@ -1,0 +1,5 @@
+# 应用配置
+application:
+  name: Image Hosting Service
+  version: 1.0.0
+  profile: D:/profiles
